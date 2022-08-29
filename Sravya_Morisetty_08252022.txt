@@ -1,0 +1,10 @@
+Zone Redundancy Vs Geo Zone redundancy
+
+Zone redundancy - it's an option available while creating a storage account for data protection against datacenter-level failure. 
+                  i.e. with in a zone their is another datacenter incase of failure of the primary datacenter.
+                  usually used for high availability. so it is costly.
+
+
+Geo Zone Redundancy - it's an option available while creating storage a/c, this option is a combination of zone redundancy and geo redundancy,
+                      so the secondary data center is located in a different zone. 
+                      this is used for critical applications
